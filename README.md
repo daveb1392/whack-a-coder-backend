@@ -1,31 +1,24 @@
-# Whack-A-Coder Game
+# README
 
-3 person team with Anil: https://github.com/slumfrog and David: https://github.com/daveb1392
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Hello Everyone, welcome to our Flatiron Version of Whack-A-Mole!
+Things you may want to cover:
 
-To run the game
+* Ruby version
 
-1. ```copy github link from clone or download #from github repository```
+* System dependencies
 
-Now in the terminal on your computer
+* Configuration
 
-1. ```cd <folder name> #where you want to clone the repository```
-2. ```cd git clone <copied link from number 1> ```
-3. ```cd whack-a-coder-javascript-project```
-4. ```bundle install```
+* Database creation
 
-Now we run the Backend rails server in a serperate tab by the following
-1. ```<cmd + t>```
-2. ```cd BackEnd```
-3. ```cd whack-a-coder-api```
-4. ```rails s```
+* Database initialization
 
-Finally, from the original tab in your temrinal
-1. ```cd FrontEnd```
-2. ```open index.html```
+* How to run the test suite
 
-And Enjoy! :)
+* Services (job queues, cache servers, search engines, etc.)
 
-We have left a few comments in the app.js file regarding speeds and difficulties
-# whack-a-coder-backend
+* Deployment instructions
+
+* ...
